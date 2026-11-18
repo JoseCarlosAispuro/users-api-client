@@ -12,7 +12,7 @@ A small React app that searches users through the [Users API](https://github.com
 
 This app needs the API running locally and allowed by its CORS configuration.
 
-1. Start the [Users API](https://github.com/JoseCarlosAispuro/users-api on `http://localhost:3000`, with `CORS_ORIGIN=http://localhost:5173` in its environment.
+1. Start the [Users API](https://github.com/JoseCarlosAispuro/users-api) on `http://localhost:3000`, with `CORS_ORIGIN=http://localhost:5173` in its environment.
 2. Install and configure this app:
 
 ```bash
